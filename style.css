@@ -125,7 +125,7 @@ a.active {
     margin-bottom: 25px;
 }
 
-#login {
+#bookNow {
     display: block;
     width: 100%;
     padding: 10px;
@@ -141,6 +141,6 @@ a.active {
     justify-content: space-between;
 }
 
-#transaction-area {
+#booking-area {
     display: none;
 }
