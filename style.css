@@ -143,4 +143,6 @@ a.active {
 
 #booking-area {
     display: none;
+    text-align: center;
+    margin: 80px;
 }
